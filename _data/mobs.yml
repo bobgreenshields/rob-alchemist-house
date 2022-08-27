@@ -1,11 +1,11 @@
 a:
   pp: "11"
-  loot: ""
+  loot: "20 cp, a carved bone whistle, a signet ring (5 gp)"
   desc: "Stormvermin & 2 Clan Rats"
 
 alchemist:
   pp: "12"
-  loot: ""
+  loot: "3gp, 20sp"
   desc: "Gakrern Tallore"
 
 b:
@@ -25,8 +25,8 @@ d:
 
 e:
   pp: "12"
-  loot: ""
-  desc: "Cult initiates"
+  loot: "8 sp, a carved bone whistle, a fish skull"
+  desc: "2 Cult initiates"
 
 f:
   pp: "12"
@@ -35,6 +35,6 @@ f:
 
 zlatan:
   pp: "12"
-  loot: ""
+  loot: "15sp 20cp"
   desc: "Galkern's servant"
 
