@@ -1,0 +1,28 @@
+- mob: a
+  area: 4
+  notes: "Sitting at A drinking and squabbling"
+
+- mob: alchemist
+  area: 5
+  notes: "Adjusting a distillation tower at D"
+
+- mob: b
+  area: 4
+  notes: "Hunched over crate at D"
+
+- mob: c
+  area: 4
+  notes: "Secured behind wooden bars at C"
+
+- mob: d
+  area: 5
+  notes: "guarding at A"
+
+- mob: e
+  area: 5
+  notes: "Working at B & C"
+
+- mob: f
+  area: 5
+  notes: "Working on warpstone at E"
+

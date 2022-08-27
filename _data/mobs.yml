@@ -1,0 +1,35 @@
+a:
+  pp: "11"
+  loot: ""
+  desc: "Stormvermin & 2 Clan Rats"
+
+alchemist:
+  pp: "12"
+  loot: ""
+  desc: "Gakrern Tallore"
+
+b:
+  pp: "12"
+  loot: "14 sp, a blob of iron, a vial of scented oil"
+  desc: "Packmaster"
+
+c:
+  pp: "10"
+  loot: ""
+  desc: "Rat Ogre"
+
+d:
+  pp: "11"
+  loot: "11gp 35cp a pouch of glass marbles, an iron spike"
+  desc: "2 Stormvermin 1 Clan Rat"
+
+e:
+  pp: "12"
+  loot: ""
+  desc: "Cult initiates"
+
+f:
+  pp: "12"
+  loot: "10 gp, a bundle of seven twigs, some mouldy bread"
+  desc: "Skaven master of mutation"
+

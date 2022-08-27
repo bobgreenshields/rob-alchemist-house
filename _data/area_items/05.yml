@@ -1,0 +1,16 @@
+- title: "Odour"
+  desc: |-
+    On entering the door from 2 you are greeted by an odour of alchemetical reagents and chemicals mixed in with an unpleasant, slightly acrid animal smell.
+
+- title: "Workbench"
+  desc: |-
+    The huge workbench is covered in bubbling flasks, distillation towers and equipment of all sorts.  Clearly several processes are underway at the same time.  Knives, drills, vices and retorts are all present and from the far end of the table the unmistakeable green glow of warpstone can be seen.  Not only are shards on the worktop but they are contained in flasks infusing the liquid flowing through.
+
+- title: "Wooden chest"
+  desc: |-
+    This sturdy wooden chest has cloth lined trays storing completed potions.  See Potion Loot
+
+- title: "Fireball"
+  desc: |-
+    Flames start licking along the worktop and all of the alchemists start looking worried.  A huge flask in the middle of the table begins to boil furiously threatening to overflow.  In 1d4 rounds it explodes into a fireball with 20ft radius for 3d6 fire damage half on DC13 Dex save.
+
