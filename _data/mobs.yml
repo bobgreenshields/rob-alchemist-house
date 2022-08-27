@@ -33,3 +33,8 @@ f:
   loot: "10 gp, a bundle of seven twigs, some mouldy bread"
   desc: "Skaven master of mutation"
 
+zlatan:
+  pp: "12"
+  loot: ""
+  desc: "Galkern's servant"
+
