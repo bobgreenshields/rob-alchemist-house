@@ -4,7 +4,11 @@
 
 - title: "Workbench"
   desc: |-
-    The huge workbench is covered in bubbling flasks, distillation towers and equipment of all sorts.  Clearly several processes are underway at the same time.  Knives, drills, vices and retorts are all present and from the far end of the table the unmistakeable green glow of warpstone can be seen.  Not only are shards on the worktop but they are contained in flasks infusing the liquid flowing through.
+    The huge workbench is covered in bubbling flasks, distillation towers and equipment of all sorts.  Clearly several processes are underway at the same time.  Knives, drills, vices and retorts are all present and from the far end of the table the unmistakeable green glow of warpstone can be seen.  Not only are shards on the worktop but they are contained in flasks infusing the liquid flowing through.  The largest item atop the workbench is the huge copper flask.
+
+- title: "Copper flask"
+  desc: |-
+    A large spherical copper flask sits on a tripod on the workbench.  Beneath it are numerous burners, some aflame, others have been covered to extinguish them.  Glass tubes lead out from the top of the flask into several glass bulbs containing warpstone crystals.  Gases condense onto the warpstone and receptacles collect the fluids which drain into a final beaker.  The copper flask itself is made of overlapping plates secured by small rivets.
 
 - title: "Wooden chest"
   desc: |-
@@ -12,5 +16,5 @@
 
 - title: "Fireball"
   desc: |-
-    Flames start licking along the worktop and all of the alchemists start looking worried.  A huge flask in the middle of the table begins to boil furiously threatening to overflow.  In 1d4 rounds it explodes into a fireball with 20ft radius for 3d6 fire damage half on DC13 Dex save.
+    Flames start licking along the worktop licking around the equipment and igniting more burners beneath the copper flask.  The flask begins to creak and rivets ping out from between the plates.  The alchemist stares momentarily at the flask in horror and then flees through 6.  In 1d4 rounds the flask explodes into a fireball that filles the room, adjecent corridors and the entrance to the cave.  All in that area take 5d6 fire damage, halved on a successful DC13 Dex save.
 
